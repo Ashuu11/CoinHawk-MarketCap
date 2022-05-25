@@ -1,4 +1,7 @@
-# Next.js + Tailwind CSS Example
+# CoinHawk Market Cap ( NextJS + Tailwind CSS + Moralis + Solidity + Web 3.0 )
+
+
+![Screenshot (85)](https://user-images.githubusercontent.com/84927939/170186081-bbd6fbc6-e362-4824-b1d4-f8be3a9d6513.png)
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
