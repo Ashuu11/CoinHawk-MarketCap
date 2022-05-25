@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    background: linear-gradient(to bottom, #212430, #17171a);
+    height: 100%;
+    width: 100vw;
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+/* linear-gradient(rgb(251, 113, 133), rgb(217, 70, 239), rgb(99, 102, 241)) */
